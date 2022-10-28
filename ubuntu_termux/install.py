@@ -46,4 +46,4 @@ def install_ubuntu_termux():
 		sr.runLine(commandInstall)
 		
 
-install_ubuntu_termux()
+#install_ubuntu_termux()

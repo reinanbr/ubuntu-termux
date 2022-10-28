@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ubuntu-termux"
+version = "0.0.3"
+description = "a lib for install ubuntu aarch in the termux android"
+authors = ["Reinanbr"]
+license = "GPLv2"
+readme = "README.md"
+packages = [{include = "ubuntu_termux"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+kitano = "^0.0.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
