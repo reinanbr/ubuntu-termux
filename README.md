@@ -1,6 +1,8 @@
 <div text-align='center'>
+
 # ubuntu-termux
 Install run a mini distro Ubuntu on Termux
+
 </div>
 <hr/>
 
