@@ -1,7 +1,7 @@
-<div text-align='center'>
+<div align='center'>
 
-# ubuntu-termux
-Install run a mini distro Ubuntu on Termux
+<h1> ubuntu-termux</h1>
+<p>Install run a mini distro Ubuntu on Termux</p>
 
 </div>
 <hr/>
